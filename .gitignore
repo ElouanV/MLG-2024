@@ -1,0 +1,8 @@
+*.png
+*.csv
+*.tex
+data/
+dataset/
+*.model
+
+.idea
